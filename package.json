@@ -27,7 +27,6 @@
       "**/react-dom",
       "**/react-native",
       "**/react-native/**",
-      "**/react-native-macos",
       "**/react-native-web"
     ]
   },
